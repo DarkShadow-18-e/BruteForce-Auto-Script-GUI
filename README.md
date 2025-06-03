@@ -16,9 +16,13 @@ Le script Python (.py) ou l'exécutable
 Facultatif : vous pouvez aussi définir votre propre fichier rapport.txt
 
  #Lancement du programme
+
 ➤ Via Python
+
 BruteForce Auto Script GUI.py
+
 ➤ Via l’exécutable
+
 BruteForce Auto Script GUI.exe
 #Fonctionnalités
 #Interface graphique (GUI)
